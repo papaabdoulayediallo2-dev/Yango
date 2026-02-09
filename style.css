@@ -1,0 +1,49 @@
+fieldset{
+    width: 350px;
+    height: 700px;
+    border-radius: 20px;
+    margin: 10% 25% 10% 30%;
+    box-sizing: border-box;
+    border: 5px solid #000;
+    box-shadow: #000 0px 0px 10px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.YANGO{
+    font-size: 20px;
+    color: red;
+}
+img{
+    width: 150px;
+    height: 60px;
+}
+.containe{
+    display: flex;
+    justify-content: space-between;
+}
+.contain-left{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.barre img{
+    width: 100%;
+    height: 100px;
+}
+.position img{
+    width: 70px;
+    height: 66px;
+}
+h5{
+    font-size: 15px;
+    color: rgb(5, 5, 5);
+    margin-top: 20px;
+    margin-left: 30px;
+    text-align: left;
+}
+.phot img{
+    width: 330px;
+    height: 100px;
+}
